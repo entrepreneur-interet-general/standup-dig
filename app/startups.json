@@ -1,0 +1,289 @@
+{
+  "data":[
+    {
+      "id":"Agence de la Sécurité Civile",
+      "type":"startup",
+      "attributes":{
+        "title":"Agence de la Sécurité Civile",
+        "pitch":"Aider à sauver des vies en situation d'urgence",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"Ma famille ici",
+      "type":"startup",
+      "attributes":{
+        "title":"Ma famille ici",
+        "pitch":"Faciliter le regroupement familial des étrangers en France",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"DINSIC",
+      "type":"startup",
+      "attributes":{
+        "title":"DINSIC",
+        "pitch":"Contribuer à la réussite de FranceConnect",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"Mission Identité Numérique",
+      "type":"startup",
+      "attributes":{
+        "title":"Mission Identité Numérique",
+        "pitch":"Bâtir une identité numérique de l’État simple, ergonomique et sécurisée",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"RembourSanté",
+      "type":"startup",
+      "attributes":{
+        "title":"RembourSanté",
+        "pitch":"Améliorer la compréhension des remboursements de l’assurance maladie sur le compte Ameli",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"vigicr'UX",
+      "type":"startup",
+      "attributes":{
+        "title":"vigicr'UX",
+        "pitch":"Mieux informer les citoyens sur les risques de crues",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"Shom",
+      "type":"startup",
+      "attributes":{
+        "title":"Shom",
+        "pitch":"Faciliter l’accès à une information marine de qualité",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"SIED",
+      "type":"startup",
+      "attributes":{
+        "title":"SIED",
+        "pitch":"Améliorer l’information environnementale du citoyen",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"AchaDef",
+      "type":"startup",
+      "attributes":{
+        "title":"AchaDef",
+        "pitch":"Faciliter l’accès aux achats hors armements du ministère des Armées",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"Alphabet",
+      "type":"startup",
+      "attributes":{
+        "title":"Alphabet",
+        "pitch":"Améliorer la communication et la collaboration des 1,2 million d'agents de l'Education nationale",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"INPN Espaces",
+      "type":"startup",
+      "attributes":{
+        "title":"INPN Espaces",
+        "pitch":"Informer les citoyens sur les espaces naturels autour de chez eux",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"Résorption bidonvilles",
+      "type":"startup",
+      "attributes":{
+        "title":"Résorption bidonvilles",
+        "pitch":"Favoriser la résorption des bidonvilles",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"Recrues",
+      "type":"startup",
+      "attributes":{
+        "title":"Recrues",
+        "pitch":"Favoriser le recrutement à la Gendarmerie nationale",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"ProxiRH",
+      "type":"startup",
+      "attributes":{
+        "title":"ProxiRH",
+        "pitch":"Accompagner le développement professionnel des agents de l’académie de Lyon",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"PlaniPref",
+      "type":"startup",
+      "attributes":{
+        "title":"PlaniPref",
+        "pitch":"Faciliter la prise de rendez-vous en préfecture",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    },
+    {
+      "id":"plateforme Handicap",
+      "type":"startup",
+      "attributes":{
+        "title":"plateforme Handicap",
+        "pitch":"Simplifier le parcours des familles dont les enfants sont en situation de handicap",
+        "status":"success"
+      },
+      "relationships":{
+        "incubator":{
+          "data":{
+            "type":"incubator",
+            "id":"eig"
+          }
+        }
+      }
+    }
+  ],
+  "included":[
+    {
+      "id":"eig",
+      "type":"incubator",
+      "attributes":{
+        "title":"Le programme Entrepreneur d'Intérêt Général",
+        "owner":"DINSIC",
+        "website":"https://entrepreneur-interet-general.etalab.gouv.fr",
+        "github":"https://github.com/entrepreneur-interet-general",
+        "contact":"https://entrepreneur-interet-general.etalab.gouv.fr"
+      }
+    }
+  ]
+}

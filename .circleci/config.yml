@@ -1,0 +1,28 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/standup
+    docker:
+      - image: circleci/node:10.6.0-browsers
+    steps:
+      - checkout
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+      - run:
+          name: Run install
+          command: yarn install --non-interactive
+      - save_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+          paths:
+            - ./node_modules
+      - run:
+          name: Run lint
+          command: yarn lint:js
+      - run:
+          name: Run test
+          command: yarn test
+      - store_artifacts:
+          path: test-results.xml
+          prefix: tests
+      - store_test_results:
+          path: test-results.xml
