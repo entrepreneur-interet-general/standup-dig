@@ -1,7 +1,7 @@
 {
   "data":[
     {
-      "id":"Agence de la Sécurité Civile",
+      "id":"App 112",
       "type":"startup",
       "attributes":{
         "name":"Agence de la Sécurité Civile",
@@ -35,7 +35,7 @@
       }
     },
     {
-      "id":"DINSIC",
+      "id":"FranceCo",
       "type":"startup",
       "attributes":{
         "name":"DINSIC",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "id":"Mission Identité Numérique",
+      "id":"ID numérique",
       "type":"startup",
       "attributes":{
         "name":"Mission Identité Numérique",
@@ -103,7 +103,7 @@
       }
     },
     {
-      "id":"Shom",
+      "id":"Maritux",
       "type":"startup",
       "attributes":{
         "name":"Shom",
@@ -120,7 +120,7 @@
       }
     },
     {
-      "id":"SIED",
+      "id":"Sequoia",
       "type":"startup",
       "attributes":{
         "name":"SIED",
