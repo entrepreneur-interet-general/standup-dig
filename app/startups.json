@@ -4,7 +4,7 @@
       "id":"App 112",
       "type":"startup",
       "attributes":{
-        "name":"Agence de la Sécurité Civile",
+        "name":"App 112",
         "pitch":"Aider à sauver des vies en situation d'urgence",
         "status":"success"
       },
@@ -38,7 +38,7 @@
       "id":"FranceCo",
       "type":"startup",
       "attributes":{
-        "name":"DINSIC",
+        "name":"FranceCo",
         "pitch":"Contribuer à la réussite de FranceConnect",
         "status":"success"
       },
@@ -55,7 +55,7 @@
       "id":"ID numérique",
       "type":"startup",
       "attributes":{
-        "name":"Mission Identité Numérique",
+        "name":"ID numérique",
         "pitch":"Bâtir une identité numérique de l’État simple, ergonomique et sécurisée",
         "status":"success"
       },
@@ -106,7 +106,7 @@
       "id":"Maritux",
       "type":"startup",
       "attributes":{
-        "name":"Shom",
+        "name":"Maritux",
         "pitch":"Faciliter l’accès à une information marine de qualité",
         "status":"success"
       },
@@ -123,7 +123,7 @@
       "id":"Sequoia",
       "type":"startup",
       "attributes":{
-        "name":"SIED",
+        "name":"Sequoia",
         "pitch":"Améliorer l’information environnementale du citoyen",
         "status":"success"
       },
@@ -192,7 +192,7 @@
       "type":"startup",
       "attributes":{
         "name":"Résorption bidonvilles",
-        "pitch":"Favoriser la résorption des bidonvilles",
+        "pitch":"Connaître, partager et agir pour résorber les bidonvilles",
         "status":"success"
       },
       "relationships":{
