@@ -21,7 +21,7 @@
       "id":"atlas-culture",
       "type":"startup",
       "attributes":{
-        "name":"Atlas Culture",
+        "name":":world_map::fr::notes::dancer::clapper::performing_arts::classical_building::books::art:",
         "pitch":"Visualiser les politiques culturelles territoriales",
         "status":"success"
       },
